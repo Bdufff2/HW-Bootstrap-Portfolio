@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color:rgb(133, 132, 132);
+}
+header {
+    text-align: center;
+    border-style: none;
+    background-color: darkcyan;   
+}
+
+.page-header {
+    border: 2px darkgrey;
+    padding-top: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: rgb(133, 132, 132);
+}
+
+.navbar-inverse {
+    background-color:white;
+    border-color:rgb(197, 195, 195);
+    border-width: 3px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom-style: solid;
+    border-color: rgb(139, 137, 137);
+}
+
+header {
+    text-align: center;
+}
+Body {
+    width: 85%;
+    margin: 0 auto;
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/dust_scratches.png");
+}
+.wrapper {
+    width:97%;
+    margin:0 auto;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(197, 195, 195);
+    background-color: white;
+}
+
+h2 {
+    color: darkcyan;
+    font-weight: 700;
+}
+
+footer {
+    margin-top: 20px;
+    padding:20px;
+    background-color: darkcyan;
+    text-align: center;   
+}
+p {
+    color: white;
+}
